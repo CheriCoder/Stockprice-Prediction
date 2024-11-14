@@ -1,1 +1,3 @@
-# Stockprice-Prediction
+# Stockprice Prediction Model
+This project utilizes historical stock data to predict future prices for Apple Inc. using machine learning techniques. By leveraging algorithms such as Linear Regression, Decision Trees, and K-Nearest Neighbors (KNN), the model identifies patterns and trends in past price movements. Key steps include data preprocessing, feature extraction, and model training, followed by evaluating each model's accuracy to determine the most effective approach for forecasting. This project aims to provide insights into stock price dynamics, offering potential guidance for investors and financial analysts.
+
